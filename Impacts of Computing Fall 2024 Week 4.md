@@ -15,13 +15,14 @@ Read these three texts:
 
 * Doctorow, [Demon-haunted computers are back, baby](https://pluralistic.net/2024/01/18/descartes-delenda-est/#self-destruct-sequence-initiated)
 * Keegan, [Each Facebook User is Monitored by Thousands of Companies](https://themarkup.org/privacy/2024/01/17/each-facebook-user-is-monitored-by-thousands-of-companies-study-indicates)
+* Koebler, [Larry Ellison's AI-Powered Surveillance Dystopia Is Already Here](https://www.404media.co/larry-ellisons-ai-powered-surveillance-dystopia-is-already-here/)
 * Pavel, [Rethinking data and rebalancing digital power](https://www.adalovelaceinstitute.org/report/rethinking-data/). Read Chapter 1 (Understanding power in data-intensive digital ecosystems) of this report. You can do so online or by downloading the PDF.
 
 As you do so, please read them from two perspectives:
 
 - ***The technology or technologies being discussed***. What are these technologies? Were they developed for the purposes discussed OR are they applications of other technologies? What are the stated goals of the described usages of these technologies? How well do you think these technologies would meet or fail to meet the stated goals?
 
-- ***The Privacy/Security/Surveillance***. In what ways are data about you and I being used or possible abused? What do our computing systems know about us and how do they know these things? Give some thing, too, to the ethical implications of these uses of tracking/surveillance technologies.
+- ***The Privacy/Security/Surveillance***. In what ways are data about you and I being used or possible abused? What do our computing systems know about us and how do they know these things? Give some thought, too, to the ethical implications of these uses of tracking/surveillance technologies.
 
 As you are reading these articles, please continue take notes using the document and/or folder you created as a part of the work for Weeks 2 and 3. As I have said, the goal of these notes is to help you make sense of what you are reading and then having a reference to which you can refer as you apply these concepts (which you will start doing this week). 
 
