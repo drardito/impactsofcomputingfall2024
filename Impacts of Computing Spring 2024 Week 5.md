@@ -7,6 +7,7 @@ The goal of this week is to explore the idea of ***Collective Moral Responsibili
 
 1. ***Introduction to Week 5*** - Please listen this to brief audio introduction to Week 5.
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1925984588&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gerald-ardito" title="Gerald Ardito" target="_blank" style="color: #cccccc; text-decoration: none;">Gerald Ardito</a> · <a href="https://soundcloud.com/gerald-ardito/week-5-impacts-of-computing-fall-2024" title="Week 5 Impacts Of Computing Fall 2024" target="_blank" style="color: #cccccc; text-decoration: none;">Week 5 Impacts Of Computing Fall 2024</a></div>
 
 2. ***Readings/Viewings***
 
