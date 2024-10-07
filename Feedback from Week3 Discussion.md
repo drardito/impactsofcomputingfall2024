@@ -1,4 +1,4 @@
-## Feedback from Week 2 Discussion
+## Feedback from Week 3 Discussion
 
 ![boy at microphone](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
