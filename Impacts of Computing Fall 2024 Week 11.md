@@ -18,10 +18,9 @@ This week, we will do more listening and viewing and a little less reading.
 * ***Viewing*** - 
 
   * Tressie McMillan Cottom on [AI, Politics, and Inequality](https://www.instagram.com/tressiemcphd/reel/DBKllBxIAJh/?ref=2ndbreakfast.audreywatters.com).
-  * Torrey Trust, [GEN AI & Ethics: Investigating ChatGPT](https://manhattanville-my.sharepoint.com/:p:/g/personal/gerald_ardito_mville_edu/EfuQ5FAPsphPh7X2ZAeBP00Bsw_RE5TTNgIm3FbK73ofsw?e=gJLNZAg), Gemini, and Copilot (presentation)
+  * Torrey Trust, [GEN AI & Ethics: Investigating ChatGPT, Gemini, and Copilot](https://manhattanville-my.sharepoint.com/:p:/g/personal/gerald_ardito_mville_edu/EfuQ5FAPsphPh7X2ZAeBP00Bsw_RE5TTNgIm3FbK73ofsw?e=gJLNZAg) (presentation)
 * ***Readings*** - 
-
-  * Daniel Greene, [The Access Doctrine](https://logicmag.io/distribution/the-access-doctrine/#:~:text=The%20access%20doctrine%20is).
+  * Daniel Greene, [The Access Doctrine](https://logicmag.io/distribution/the-access-doctrine/).
 
   * Georgetown Law, [The Perpetual Line-Up](https://www.dropbox.com/s/xrcpek6sv3q7z1i/The Perpetual Line-Up - Center on Privacy and Technology at Georgetown Law - 121616.pdf?dl=0) (especially Section V: Findings & Scorecard)
 
