@@ -1,6 +1,6 @@
 **Impacts of Computing – Fall 2024 – Final Project**
 
-<img src="https://images.unsplash.com/photo-1494059980473-813e73ee784b?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="zoom:35%;" />
+<img src="https://images.unsplash.com/photo-1533378890784-b2a5b0a59d40?q=80&w=2037&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3DD" style="zoom:35%;" />
 
 The goal of this final project is for you to apply and expand what you have learned in this course: ethical frameworks, moral taint, collective responsibility, privacy and security, and the impacts of surveillance capitalism, algorithms, and AI.
 
@@ -12,9 +12,9 @@ Here is what you will do:
 
 3. Third, once your proposal has been accepted, you will **conduct your project**. In doing your work, please use a wide variety of reputable sources. Be sure to keep notes and references as you go so you can share them with us as part of your final materials.
 
-4. Fourth, you will **prepare a presentation** of some kind. This can be a paper, slideshow, video, podcast, artwork, or something else that calls to you. You will share this presentation with all of us. As part of this presentation, please demonstrate how what you have learned specifically connects to the class. Your presentation should include references formatted in the APA 7th style.
+4. Fourth, you will **prepare an artifact** of some kind. This can be a paper, slideshow, video, podcast, artwork, or something else that calls to you. You will share this presentation with all of us. As part of this presentation, please demonstrate how what you have learned specifically connects to the class. Your presentation should include references formatted in the APA 7th style.
 
-This project is **due no later than Friday, December 3rd**.
+This project is **due no later than Friday, December 20th**.
 
 ***Rubric***
 
