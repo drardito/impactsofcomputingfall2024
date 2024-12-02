@@ -11,7 +11,7 @@ First, I wanted to set/clarify some expectations.
 
 #### Here is the work for Week 14:
 
-1. **Introduction to Week 14** - Please listen this to brief audio introduction to Week 14, which addresses the first full week of work on your Final Project. 
+1. **Introduction to Week 14** - Please listen this to brief audio introduction to Week 14, which addresses the first full week of work on your Final Project. Note, I mention Moodle in this introduction which was the LMS I used before Brightspace.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1800757224&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gerald-ardito" title="Gerald Ardito" target="_blank" style="color: #cccccc; text-decoration: none;">Gerald Ardito</a> · <a href="https://soundcloud.com/gerald-ardito/week-14-impacts-of-computing-spring-2024" title="Week 14 - Impacts Of Computing" target="_blank" style="color: #cccccc; text-decoration: none;">Week 14 - Impacts Of Computing</a></div>
 
