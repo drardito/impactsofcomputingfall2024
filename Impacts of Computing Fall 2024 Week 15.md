@@ -22,7 +22,7 @@ As was the case last week, any readings/listenings/viewings you do this week wil
 
 3. ***Interactions***
 
-As you work on your Final Projects, I think it is really important to stay connected with one another, therefore I am asking you to ***share your progress*** with us via Mattermost using the *Final Projects* channel.
+As you work on your Final Projects, I think it is really important to stay connected with one another, therefore I am asking you to ***share your progress*** with us via Mattermost using the **Final Projects** channel.
 
 Here are some prompts for these updates:
 
