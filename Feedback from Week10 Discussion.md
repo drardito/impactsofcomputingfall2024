@@ -1,8 +1,8 @@
-## Feedback from Week 8 Discussion
+## Feedback from Week 10 Discussion
 
 ![boy at microphone](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-I have had the pleasure of reading through your discussion from Week 8, where you used the evidence from notifications, etc., to speculate on who your computing systems understood you to be. Here is some feedback about your work in that discussion.
+I have had the pleasure of reading through your discussion from Week 7, where you used the evidence from notifications, etc., to speculate on who your computing systems understood you to be. Here is some feedback about your work in that discussion.
 
 1. ***Engagement/Interaction/Substance***. So much of what you discussed had to with imbalances of power and the impact exerted on us. Here are some highlights:
 
@@ -41,4 +41,4 @@ I have had the pleasure of reading through your discussion from Week 8, where yo
 
 There are some components of this analysis which seem very coherent with the others, and some not so much. I am very eager to hear your responses to this type of analysis.
 
-Please share your thoughts about any/all of this in the Week 8 discussion on Mattermost.
+Please share your thoughts about any/all of this in the Week 10 discussion on Mattermost.
