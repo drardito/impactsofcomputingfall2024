@@ -2,7 +2,7 @@
 
 ![boy at microphone](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-I have had the pleasure of reading through your discussion from Week 7, where you used the evidence from notifications, etc., to speculate on who your computing systems understood you to be. Here is some feedback about your work in that discussion.
+I have had the pleasure of reading through your discussion from Week 10, where you used the evidence from notifications, etc., to speculate on who your computing systems understood you to be. Here is some feedback about your work in that discussion.
 
 1. ***Engagement/Interaction/Substance***. So much of what you discussed had to with imbalances of power and the impact exerted on us. Here are some highlights:
 
