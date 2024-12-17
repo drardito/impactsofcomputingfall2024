@@ -1,8 +1,8 @@
-## Feedback from Week 11 Discussion
+## Feedback from Week 12 Discussion
 
 ![boy at microphone](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-I have had the pleasure of reading through your discussion from Week 11, where you used the evidence from notifications, etc., to speculate on who your computing systems understood you to be. Here is some feedback about your work in that discussion.
+I have had the pleasure of reading through your discussion from Week 12, where you used the evidence from notifications, etc., to speculate on who your computing systems understood you to be. Here is some feedback about your work in that discussion.
 
 1. ***Engagement/Interaction/Substance***. So much of what you discussed had to with imbalances of power and the impact exerted on us. Here are some highlights:
 
@@ -32,7 +32,7 @@ I have had the pleasure of reading through your discussion from Week 11, where y
 
       ![wordcloud](https://github.com/drardito/impactsofcomputingfall2024/blob/main/Images/Impacts%20FA24%20Week11%20Wordcloud.png?raw=true)
 
-   3. *Relationships Between Words.* As usual, I performed a ***collocation analysis***, in which we can look at the relationships between works used in your Mattermost posts. In this visualization, thicker grey lines indicate a higher number of connections between terms. I invite you to explore a [live version of this analysis]https://voyant-tools.org/?corpus=f0ef061a94f86295c5494140a362e743&query=people&query=skills&query=ai&query=use&query=color&query=having&query=technology&query=just&query=facial&query=solve&query=world&query=used&query=systems&query=think&query=really&context=7&view=CollocatesGraph), which will allow you to explore these connections in interesting ways. Note the range of connected terms here, which is reflective of the focus fairness and inequality in this week's texts. Please do play with the live version. I think you will be surprised by the connections you see there.
+   3. *Relationships Between Words.* As usual, I performed a ***collocation analysis***, in which we can look at the relationships between works used in your Mattermost posts. In this visualization, thicker grey lines indicate a higher number of connections between terms. I invite you to explore a [live version of this analysis]https://voyant-tools.org/?corpus=fd278d796b41dbeeb836aaafae6e6faa&query=ai&query=healthcare&query=used&query=help&query=health&query=systems&query=video&query=intelligence&query=impact&query=artificial&query=pm&query=november&query=agree&query=wilmerroldan&query=pisapiat&context=7&view=CollocatesGraph), which will allow you to explore these connections in interesting ways. Note the range of connected terms here, which is reflective of the focus fairness and inequality in this week's texts. Please do play with the live version. I think you will be surprised by the connections you see there.
 
       ![word link chart](https://github.com/drardito/impactsofcomputingfall2024/blob/main/Images/Impacts%20FA24%20Week11%20Collocations.png?raw=true)
 
@@ -42,4 +42,4 @@ I have had the pleasure of reading through your discussion from Week 11, where y
 
 There are some components of this analysis which seem very coherent with the others, and some not so much. I am very eager to hear your responses to this type of analysis.
 
-Please share your thoughts about any/all of this in the Week 11 discussion on Mattermost.
+Please share your thoughts about any/all of this in the Week 12 discussion on Mattermost.
